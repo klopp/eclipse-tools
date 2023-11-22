@@ -1,12 +1,12 @@
-# c-include-sort.pl
+# [c-include-sort.pl](./c-include-sort.pl)
 
 Сортирует блоки `#include ...` по алфавиту.
 
-# perl-use-sort.pl
+# [perl-use-sort.pl](./perl-use-sort.pl)
 
 Сортирует блоки `use ...` по алфавиту.
 
-# perltidy
+# [perltidy](./perltidy)
 
 Замена системного `perltidy`.
 Предварительно сортирует блоки `use ...` по алфавиту.
@@ -21,7 +21,7 @@
 
 ![](./demo/perltidy.png)
 
-# astyle
+# [astyle](./astyle)
 
 Замена системного `astyle` ([Artistic Style](https://astyle.sourceforge.net/)).
 Предварительно сортирует блоки `#include  ...` по алфавиту.
