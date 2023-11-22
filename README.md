@@ -17,6 +17,10 @@
     perltidy [аргументы /usr/bin/perltidy] имя_файла
 ```
 
+В Eclipse:
+
+![](./demo/perltidy.png)
+
 # astyle
 
 Замена системного `astyle` ([Artistic Style](https://astyle.sourceforge.net/)).
@@ -28,3 +32,6 @@
     astyle [аргументы /usr/bin/astyle] имя_файла
 ```
 
+В Eclipse:
+
+![](./demo/astyle.png)
